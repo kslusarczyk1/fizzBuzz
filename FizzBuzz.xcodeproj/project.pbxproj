@@ -14,6 +14,9 @@
 		3FEECA6A1EE86C2C00ADF980 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FEECA681EE86C2C00ADF980 /* LaunchScreen.storyboard */; };
 		3FEECA751EE86C2C00ADF980 /* FizzBuzzTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEECA741EE86C2C00ADF980 /* FizzBuzzTests.swift */; };
 		3FEECA801EE86C2C00ADF980 /* FizzBuzzUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEECA7F1EE86C2C00ADF980 /* FizzBuzzUITests.swift */; };
+		3FEECA981EE8789800ADF980 /* Buzz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FEECA951EE8789800ADF980 /* Buzz.mp3 */; };
+		3FEECA9A1EE878C800ADF980 /* Fizz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FEECA991EE878C800ADF980 /* Fizz.mp3 */; };
+		3FEECA9C1EE878CE00ADF980 /* Click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FEECA9B1EE878CE00ADF980 /* Click.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		3FEECA7B1EE86C2C00ADF980 /* FizzBuzzUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FizzBuzzUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FEECA7F1EE86C2C00ADF980 /* FizzBuzzUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzzUITests.swift; sourceTree = "<group>"; };
 		3FEECA811EE86C2C00ADF980 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FEECA951EE8789800ADF980 /* Buzz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Buzz.mp3; path = ../../../../../../Downloads/Buzz.mp3; sourceTree = "<group>"; };
+		3FEECA991EE878C800ADF980 /* Fizz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Fizz.mp3; path = ../../../../../../Downloads/Fizz.mp3; sourceTree = "<group>"; };
+		3FEECA9B1EE878CE00ADF980 /* Click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Click.mp3; path = ../../../../../../Downloads/Click.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +108,9 @@
 				3FEECA631EE86C2C00ADF980 /* Main.storyboard */,
 				3FEECA661EE86C2C00ADF980 /* Assets.xcassets */,
 				3FEECA681EE86C2C00ADF980 /* LaunchScreen.storyboard */,
+				3FEECA951EE8789800ADF980 /* Buzz.mp3 */,
+				3FEECA9B1EE878CE00ADF980 /* Click.mp3 */,
+				3FEECA991EE878C800ADF980 /* Fizz.mp3 */,
 				3FEECA6B1EE86C2C00ADF980 /* Info.plist */,
 			);
 			path = FizzBuzz;
@@ -234,7 +243,10 @@
 			files = (
 				3FEECA6A1EE86C2C00ADF980 /* LaunchScreen.storyboard in Resources */,
 				3FEECA671EE86C2C00ADF980 /* Assets.xcassets in Resources */,
+				3FEECA981EE8789800ADF980 /* Buzz.mp3 in Resources */,
+				3FEECA9C1EE878CE00ADF980 /* Click.mp3 in Resources */,
 				3FEECA651EE86C2C00ADF980 /* Main.storyboard in Resources */,
+				3FEECA9A1EE878C800ADF980 /* Fizz.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
